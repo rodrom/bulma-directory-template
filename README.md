@@ -1,8 +1,8 @@
-# Bulma Rent Template
+# Bulma Directory Template
 
-Part of [Awesome Bulma Templates](https://github.com/aldi/awesome-bulma-templates) repo
+Derivative work from [Awesome Bulma Templates](https://github.com/aldi/awesome-bulma-templates) repo
 
-## [Live Demo](https://aldi.github.io/bulma-rent-template/index.html)
+## [Live Demo](https://rodrom.github.io/bulma-directory-template)
 
 ![Screenshot](screenshot.png)
 
@@ -18,6 +18,6 @@ Font-Awesome - [github.com/FortAwesome/Font-Awesome](https://github.com/FortAwes
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request!
 
-## Licence
+## License
 
 Code released under [the MIT license](https://github.com/aldi/bulma-rent-template/blob/master/LICENSE.md).
